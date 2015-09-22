@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tab Demo</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="aloha">Aloha</string>
+    <string name="click_me">Click Me</string>
+    <string name="mele">Mele Kalikimaka</string>
+</resources>
